@@ -1,69 +1,73 @@
-# university-library-management-system
-Library Management System Software Engineering Project
 # University Library Management System
 
-## 1. Project Introduction
-The University Library Management System (LMS) is a software engineering project designed to improve the management of university library activities. The proposed system will manage books, student memberships, borrowing, returns, reservations, and overdue notifications.
+## Project Overview
+The University Library Management System (LMS) is a proposed software system designed to improve the management of university library operations. The system will help manage books, student memberships, borrowing, returns, reservations, and overdue notifications.
 
-## 2. Project Objectives
-- Maintain digital records of books.
-- Manage student and staff memberships.
-- Record book borrowing and returning.
-- Allow students to reserve books.
-- Track overdue books.
-- Provide overdue notifications.
-- Improve library management efficiency.
+## Project Objectives
+- Maintain an organized digital record of books.
+- Manage student and staff membership information.
+- Record book borrowing and return transactions.
+- Allow users to reserve available or borrowed books.
+- Identify overdue books and manage overdue notifications.
+- Improve the efficiency and accuracy of library operations.
 
-## 3. Project Scope
-The project includes:
+## Project Scope
+
+### In Scope
 - Book management
-- Member registration and management
+- Student membership management
 - Book borrowing and returns
 - Book reservations
-- Overdue tracking and notifications
-- Basic reports
+- Overdue book tracking and notifications
+- User interface prototype
+- System requirements and diagrams
 
-The project focuses on requirements analysis, system modelling, interface prototyping, and project documentation. Complete software implementation is not included.
+### Out of Scope
+- Complete software implementation
+- Online payment processing
+- Integration with external university systems
+- Mobile application development
 
-## 4. Assumptions
+## Assumptions
 - Students and library staff will have access to the system.
-- Every registered member will have a unique membership ID.
-- Books will have unique identification numbers.
-- The university will provide the necessary library information.
+- Each book will have a unique identification number.
+- Users will provide accurate membership information.
+- Library staff will maintain book records.
 - Internet or local network access will be available.
 
-## 5. Constraints
-- Limited project time.
-- Limited budget and resources.
-- Limited team members.
-- The complete system will not be implemented.
-- The project depends on accurate information from the university library.
+## Constraints
+- Limited project development time.
+- Limited team members (2 students).
+- Limited project resources and budget.
+- The assignment requires analysis and design rather than a complete implementation.
+- The project must be maintained using Git and GitHub.
 
-## 6. Project Deliverables
+## Project Deliverables
 - Software Requirements Specification (SRS)
-- Use Case Diagram
-- Class Diagram
-- Activity Diagram
-- UI Prototype
-- Project Schedule and Gantt Chart
+- Project schedule and Gantt chart
 - Work Breakdown Structure (WBS)
+- Responsibility Assignment Matrix (RAM)
+- Effort Estimation
 - Risk Management Plan
-- Responsibility Assignment Matrix
+- UI prototype
+- System diagrams
 
-## 7. Tools
+## Project Team
+- Member 1: [Muhammad Umar Khan]
+- Member 2: [Irfan Khan]
+
+## Tools Used
 - Git
 - GitHub
-- Draw.io
-- Figma
 - Microsoft Excel
-- Microsoft Word
+- Draw.io
+- UI prototyping tool
 
-## 8. Team Members
-1. Member 1: [Irfan Khan]
-2. Member 2: [Umar Khan]
+## Repository Structure
+- `requirements/` – Project requirements and SRS documentation
+- `diagrams/` – System diagrams and WBS
+- `ui-prototype/` – User interface prototype
+- `reports/` – Gantt chart, RAM, effort estimation, and risk management reports
 
-## 9. Project Team
-Software Engineering Students
-
-## 10. Project Status
-Planning and Requirements Analysis
+## Project Status
+Project analysis, planning, and design documentation are in progress.
